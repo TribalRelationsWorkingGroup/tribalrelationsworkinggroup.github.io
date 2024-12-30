@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-The Tribal Relations Working Group (TRWG) is a working group within the American Society for Public Administration's (ASPA) Section on Intergovernmental Administration and Management (SIAM). The TRWG’s purpose is to increase the effectiveness of intergovernmental administration and management involving American Indian tribal governments and to help implement innovative government-to-government programs with tribes. Our [Linktree](https://linktr.ee/tribalrelations) has TRWG additional resources. 
+The Tribal Relations Working Group (TRWG) is a working group within the American Society for Public Administration's (ASPA) Section on Intergovernmental Administration and Management (SIAM). TRWG’s purpose is to increase the effectiveness of intergovernmental administration and management involving American Indian tribal governments and to help implement innovative government-to-government programs with tribes. Our [Linktree](https://linktr.ee/tribalrelations) has TRWG additional resources. 
 
 ## Recurring Meetings
 
