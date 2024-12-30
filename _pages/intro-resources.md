@@ -9,7 +9,7 @@ author_profile: true
 
 ### Foundational Resources to Better Understand Tribal Intergovernmental Relations
 
-* [Congressional Research Service - Federal-Tribal Consultation: Background and Issues for Congress](https://crsreports.congress.gov/product/pdf/R/R48093) <br/>, 2024.
+* [Congressional Research Service - Federal-Tribal Consultation: Background and Issues for Congress](https://crsreports.congress.gov/product/pdf/R/R48093) <br/>
 
 ### 2025
 
