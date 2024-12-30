@@ -3,11 +3,11 @@ main:
   - title: "Charter"
     url: /charter/
     
-  - title: "Publications"
-    url: /publications/
+  - title: "Introductory Resouces"
+    url: /intro-resources/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "TRWG-Related Publication"
+    url: /publications/   
     
   - title: "Awards"
     url: /awards/
