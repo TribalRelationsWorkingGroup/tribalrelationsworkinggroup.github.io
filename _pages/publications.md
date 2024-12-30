@@ -15,8 +15,8 @@ Stephen L. Pevar. Oxford University Press, 5th edition, 2024.
 
 ### Journal Articles
 
-* ZeroHAR: Sensor Context Augments Zero-Shot Wearable Action Recognition<br/>
-Ranak Roy Chowdhury, Ritvik Kapila, Ameya Panse, Xiyuan Zhang, Diyan Teng, Rashmi Kulkarni, Dezhi Hong, Rajesh K. Gupta and Jingbo Shang. <b>AAAI</b> 2025.
+* Steinman, E. (2004). American Federalism and Intergovernmental Innovation in State-Tribal Relations. Publius, 34(2), 95–114. http://www.jstor.org/stable/3331208
+
 
 ### 2024
 
