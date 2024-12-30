@@ -11,7 +11,7 @@ author_profile: true
 
 * [The Rights of Indians and Tribes](https://www.therightsofindiansandtribes.com) <br/>
 Stephen L. Pevar. Oxford University Press, 5th edition, 2024.
-      - Use code: "SAIGE" to ensure part of the proceeds go to the [Society of American Indian Government Employees](https://saige.org)
+      - Use code: "SAIGE" to ensure part of the proceeds from the sale of this book go to the [Society of American Indian Government Employees](https://saige.org)
 
 ### Journal Articles
 
