@@ -9,7 +9,9 @@ author_profile: true
 
 ### Foundational Resources to Better Understand Tribal Intergovernmental Relations
 
-* [Congressional Research Service - Federal-Tribal Consultation: Background and Issues for Congress](https://crsreports.congress.gov/product/pdf/R/R48093) <br/>
+* [Congressional Research Service - Federal-Tribal Consultation: Background and Issues for Congress](https://crsreports.congress.gov/product/pdf/R/R48093)
+
+* [Reviewed Work: What Can Tribes Do? Strategies and Institutions in American Indian Economic Development by Stephen Cornell, Joseph P. Kalt](https://doi.org/10.2307/1185252) Review by: Scott C. Russell, 1994, American Indian Quarterly. 
 
 ### 2025
 
