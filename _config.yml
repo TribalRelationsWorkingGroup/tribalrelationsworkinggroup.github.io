@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Tribal Relations Working Group (TRWG)"
-  avatar           : "/images/SIAM-TRWG-General.png" 
+  avatar           : "images/SIAM-TRWG-General.png"
   #bio              : "ASPA-SIAM Working Group"
   #location         : "CSE 4104 / HDSI 411"
   employer         : "ASPA-SIAM Working Group"
