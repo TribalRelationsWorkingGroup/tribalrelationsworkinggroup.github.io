@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Tribal Relations Working Group (TRWG)"
   avatar           : "images/SIAM-TRWG-General.png"
-  #bio              : "ASPA-SIAM Working Group"
+  bio              : " "
   #location         : "CSE 4104 / HDSI 411"
   employer         : "ASPA-SIAM Working Group"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
