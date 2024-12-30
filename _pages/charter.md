@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Charter"
+title: ""
 permalink: /charter/
 author_profile: true
 ---
