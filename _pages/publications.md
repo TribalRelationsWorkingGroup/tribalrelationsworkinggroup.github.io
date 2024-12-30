@@ -7,14 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-[[Google Scholar](https://scholar.google.com/citations?user=0SkFI4MAAAAJ&hl=en) \| [DBLP](http://dblp.uni-trier.de/pers/hd/s/Shang:Jingbo)] (\* Equal Contribution)
+### Books
 
-### Book
+* [The Rights of Indians and Tribes](https://www.therightsofindiansandtribes.com) <br/>
+Stephen L. Pevar. Oxford University Press, 5th edition, 2024.
+      - Use code: "SAIGE" to ensure part of the proceeds go to the [Society of American Indian Government Employees](https://saige.org)
 
-* [Phrase Mining from Massive Text and Its Applications](http://www.morganclaypool.com/doi/abs/10.2200/S00759ED1V01Y201702DMK013) <br/>
-Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
-
-### 2025
+### Journal Articles
 
 * ZeroHAR: Sensor Context Augments Zero-Shot Wearable Action Recognition<br/>
 Ranak Roy Chowdhury, Ritvik Kapila, Ameya Panse, Xiyuan Zhang, Diyan Teng, Rashmi Kulkarni, Dezhi Hong, Rajesh K. Gupta and Jingbo Shang. <b>AAAI</b> 2025.
