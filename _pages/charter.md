@@ -7,5 +7,5 @@ author_profile: true
 
 {% include base_path %}
 
-<iframe src="{{ site.baseurl }}/files/070307-SIAM-TRWG-FINAL.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-You can download a PDF copy of our charter [here]({{ site.baseurl }}/files/070307-SIAM-TRWG-FINAL.pdf)
+<iframe src="https://drive.google.com/file/d/1jhhnDMwafUiYWMt5jSAbaMi-YBmP9Wgs/view" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+You can download a PDF copy of our charter [here](https://drive.google.com/file/d/1jhhnDMwafUiYWMt5jSAbaMi-YBmP9Wgs/view).
