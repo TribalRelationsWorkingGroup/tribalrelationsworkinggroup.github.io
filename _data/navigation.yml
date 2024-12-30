@@ -4,7 +4,7 @@ main:
     url: /charter/
     
   - title: "Introductory Resouces"
-    url: /intro-resources/
+    url: /intro-resources/ 
 
   - title: "TRWG-Related Publication"
     url: /publications/   
