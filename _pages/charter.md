@@ -7,5 +7,5 @@ author_profile: true
 
 {% include base_path %}
 
-<iframe src="https://github.com/TribalRelationsWorkingGroup/tribalrelationsworkinggroup.github.io/images/070307-SIAM-TRWG-FINAL.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-You can download a PDF copy of our charter [here](https://github.com/TribalRelationsWorkingGroup/tribalrelationsworkinggroup.github.io/images/070307-SIAM-TRWG-FINAL.pdf))
+<iframe src="files/070307-SIAM-TRWG-FINAL.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+You can download a PDF copy of our charter [here](files/070307-SIAM-TRWG-FINAL.pdf))
