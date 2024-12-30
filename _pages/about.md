@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome to Jingbo's Homepage!"
-excerpt: "About me"
+title: "Welcome to the TRWG Homepage!"
+excerpt: "About us"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm an Associate Professor at UCSD jointly appointed by Computer Science and Halıcıoğlu Data Science Institute. I obtained my Ph.D. from UIUC advised by Prof. Jiawei Han in 2019. I received my B.E. from SJTU in 2014. I'm also a coach of the UCSD's ACM-ICPC team.
+We are a working group within the American Society for Public Administration's (ASPA) Section on Intergovernmental Administration and Management (SIAM). 
 
 ## Research Interests
 
