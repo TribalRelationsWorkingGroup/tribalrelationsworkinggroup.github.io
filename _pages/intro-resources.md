@@ -17,3 +17,5 @@ author_profile: true
   
 * [American Indian Law Center, Inc. - Handbook on State-Tribal Relations](https://digitalrepository.unm.edu/ailc_pubs/1/)
 
+* [The Commission on State-Tribal Relations: Enduring Lessons in the Modern State-Tribal Relationship] (https://nnigovernance.arizona.edu/commission-state-tribal-relations-enduring-lessons-modern-state-tribal-relationship) Authors: Tassie Hanna, Sam Deloria, and Charles E. Trimble, 2012, Tulsa Law Review. 
+
